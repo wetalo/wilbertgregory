@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.unity.postprocessing.Runtime", "com.unity.postprocessing.Runtime.csproj", "{43CE4B77-0ED1-06DF-D6D8-916516C0693A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcordiaGameDevJam", "ConcordiaGameDevJam.csproj", "{3BB314F8-DDBD-117D-EB77-CFA79C978A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.unity.postprocessing.Editor", "com.unity.postprocessing.Editor.csproj", "{8C3967EF-EA5C-CD2A-F191-ADB2A5FEC7D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43CE4B77-0ED1-06DF-D6D8-916516C0693A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CE4B77-0ED1-06DF-D6D8-916516C0693A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CE4B77-0ED1-06DF-D6D8-916516C0693A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CE4B77-0ED1-06DF-D6D8-916516C0693A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB314F8-DDBD-117D-EB77-CFA79C978A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB314F8-DDBD-117D-EB77-CFA79C978A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB314F8-DDBD-117D-EB77-CFA79C978A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB314F8-DDBD-117D-EB77-CFA79C978A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3967EF-EA5C-CD2A-F191-ADB2A5FEC7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3967EF-EA5C-CD2A-F191-ADB2A5FEC7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3967EF-EA5C-CD2A-F191-ADB2A5FEC7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3967EF-EA5C-CD2A-F191-ADB2A5FEC7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
